@@ -1,3 +1,9 @@
 # multiplication-app
 simple multiplication app.
-created using html css and javascript.
+
+Technologies Used
+html,
+css,
+and javascript.
+
+[Demo](http://192.168.0.11:5500/index.html)
