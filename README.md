@@ -6,4 +6,6 @@ html,
 css,
 and javascript.
 
+[Demo]:(https://aneal07.github.io/multiplication-app/)
+
 
