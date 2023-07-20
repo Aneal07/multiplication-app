@@ -6,6 +6,6 @@ html,
 css,
 and javascript.
 
-link:https://aneal07.github.io/multiplication-app/
+[Live-site](https://aneal07.github.io/multiplication-app/)
 
 
